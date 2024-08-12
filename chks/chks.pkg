@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'chks': Estimation of Linear Or Non linear (index) with sample selection Zero Inefficiency Stochastic Frontier Models Use chks With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f chks.ado
+f chks.sthlp
