@@ -1,6 +1,8 @@
 # chks
 Estimation of Linear Or Non linear (index) with sample selection Zero Inefficiency Stochastic Frontier Models Use chks With STATA 18
 
+https://www.youtube.com/watch?v=2Cd6lqYChWU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
